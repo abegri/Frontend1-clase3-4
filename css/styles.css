@@ -1,0 +1,65 @@
+.ingredientes{
+    font-style: italic;
+}
+
+.links{
+    padding: 0;
+    
+}
+
+.links-items a{
+    text-decoration: none;
+    color: black; 
+}
+
+header{
+    background-color: rgba(5, 5, 5, 0.9);
+    background-image: url('../img/lemon-pie.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 80%;
+    background-attachment: fixed;
+    height: 450px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-flow: column;
+    color: white;
+    font-style: bolder;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.texto-header{ 
+    font-size: 50px;
+}
+
+main{
+    color:rgb(54, 53, 53);
+    font-size: medium;
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+}
+
+ol{
+    font-family: 'Inter', sans-serif;
+}
+
+.ingredientes-a{
+    font-family: 'Inter', sans-serif;
+} 
+
+#merengue{
+    color: orangered;
+    text-decoration: underline;
+}
+
+footer{
+    font-family: 'Inter', sans-serif;
+    padding: 10px;
+}
+/*Me falta mover la imagen del lemon pie para que quede como en
+el ejemplo. También hacer un link para "merengue italiano" en la parte de
+instrucciones (tiene que ser naranja y estar subrayado).
