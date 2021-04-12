@@ -19,7 +19,7 @@ header{
     background-size: cover;
     background-position: center 80%;
     background-attachment: fixed;
-    height: 450px;
+    height: 300px;
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
